@@ -1,0 +1,17 @@
+.login {
+  background: url(~@/assets/images/2020.jpg) center center no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  .card {
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    top: 50%;
+    margin-top: -180px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+  }
+}
